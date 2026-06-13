@@ -1,4 +1,4 @@
-# Hi, I'm Kolla Sravanthi 👋
+# Hi, I'm Kolla Sravanthi
 
 🎓 B.Tech CSE Student
 
