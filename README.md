@@ -17,15 +17,20 @@
 - Women Safety Gloves (IoT)
 - My Privacy My Decision
 
+- ## Coding Profiles
+- Leetcode:[My LeetCode Profile]https://leetcode.com/u/___sravanthi/
+- github:https://github.com/ksravanthi1100
+
 ## Certifications
 - IBM AI Fundamentals
 - SkillBuild AI
-- ThingQbator IoT
+- Developing IOT applications(thinqbator)
 - Infosys Springboard
-
+- Heal Bharath internship certification
+- 
 ## Contact
 - Email: ksravanthi1100@gmail.com
-- linkedin: Kolla Sravanthi
+- linkedin:https://www.linkedin.com/in/kolla-sravanthi-8276373b1
 
 <!--
 **ksravanthi1100/ksravanthi1100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
